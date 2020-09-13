@@ -1,6 +1,4 @@
-# CryptoPepe Client
-
-(See Trello & Telegram for dev status)
+# Keti Client
 
 This is the client-side code; a React-Babel6-Webpack powered codebase, outputting HTML/JS/CSS.
 
