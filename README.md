@@ -1,4 +1,4 @@
-# Keti Client
+# Kedi Client
 
 This is the client-side code; a React-Babel6-Webpack powered codebase, outputting HTML/JS/CSS.
 
